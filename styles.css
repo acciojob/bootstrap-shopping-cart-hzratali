@@ -1,15 +1,4 @@
 /*  your css code here. If applicable */
-.headings {
-	color: #3b99e0;
-}
-.summary {
-	border-top: 2px solid #5ea4f3;
-	background-color: #f7fbff;
-	padding: 20px;
-}
-.block-heading {
-	text-align: center;
-}
-.product {
-	margin-bottom: 20px;
+body{
+    background-color: lightgrey;
 }
